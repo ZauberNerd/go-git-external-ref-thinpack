@@ -10,3 +10,5 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	golang.org/x/net v0.0.0-20210326060303-6b1517762897 // indirect
 )
+
+replace github.com/go-git/go-git/v5 v5.4.2 => ./go-git
